@@ -21,7 +21,9 @@ for user in users:
     i += 1
     new_users.append(user_dict)
 
-# pprint.pprint(new_users)
+print("primer ejercicio")
+pprint.pprint(new_users)
+print("Fin del primer ejercicio")
 
 vehiculos = {
     "marca": "Toyota",
