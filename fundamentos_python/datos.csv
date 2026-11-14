@@ -1,0 +1,11 @@
+id,nombre,apellido,email,telefono,ciudad,pais,fecha_registro,activo
+1,Lucía,Mendoza,lucia.mendoza@example.com,+51 984 112 340,Arequipa,Perú,2026-01-14,true
+2,Mateo,Valdivia,m.valdivia@example.org,+51 951 874 209,Lima,Perú,2026-02-03,true
+3,Sofía,Castillo,sofi.castillo@example.net,+52 55 4892 1034,Ciudad de México,México,2026-02-19,false
+4,Diego,Paredes,dparedes88@example.com,+57 310 492 8811,Bogotá,Colombia,2026-03-08,true
+5,Valentina,Ríos,vale.rios@example.org,+54 9 11 6304 7721,Buenos Aires,Argentina,2026-04-22,true
+6,Sebastián,Salazar,sebas.salazar@example.com,+56 9 8234 5510,Santiago,Chile,2026-05-11,false
+7,Camila,Herrera,camila.h@example.net,+34 612 849 302,Madrid,España,2026-06-30,true
+8,Andrés,Navarro,anavarro@example.com,+51 942 601 998,Cusco,Perú,2026-08-05,true
+9,Mariana,Delgado,mariana.delgado@example.org,+593 99 481 2204,Quito,Ecuador,2026-09-17,false
+10,Nicolás,Vargas,nico.vargas@example.net,+51 973 518 446,Trujillo,Perú,2026-10-29,true

@@ -1,0 +1,7 @@
+Orden de lenguaje
+1,Hola python
+2,Hola Rust
+3,Hola TypeScript
+4,Hola Go
+5,Hola C#
+6,Hola C++
